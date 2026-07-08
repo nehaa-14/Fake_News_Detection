@@ -1,0 +1,37 @@
+{
+  "train_size": 8560,
+  "test_size": 2140,
+  "class_balance_train": {
+    "real": 4480,
+    "fake": 4080
+  },
+  "class_balance_test": {
+    "real": 1120,
+    "fake": 1020
+  },
+  "vocab_size": 10491,
+  "best_model": "Linear SVM",
+  "results": {
+    "Logistic Regression": {
+      "accuracy": 0.930841121495327,
+      "precision": 0.9249512670565302,
+      "recall": 0.9303921568627451,
+      "f1": 0.927663734115347,
+      "roc_auc": 0.9791412815126053
+    },
+    "Linear SVM": {
+      "accuracy": 0.9341121495327103,
+      "precision": 0.9321533923303835,
+      "recall": 0.9294117647058824,
+      "f1": 0.930780559646539,
+      "roc_auc": 0.9793627450980392
+    },
+    "Naive Bayes": {
+      "accuracy": 0.9121495327102803,
+      "precision": 0.8924528301886793,
+      "recall": 0.9274509803921569,
+      "f1": 0.9096153846153846,
+      "roc_auc": 0.9776111694677871
+    }
+  }
+}

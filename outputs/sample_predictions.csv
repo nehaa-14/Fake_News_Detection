@@ -1,0 +1,9 @@
+tweet,true_label,predicted_label,confidence,correct
+We also wanted to call your attention to the beta release of the COVID Racial Data Tracker in collaboration with @AntiracismCtr. We're activ,real,real,0.836,True
+There is currently not enough evidence to suggest #COVID19 survivors become immune after recovery. #TakeResponsibility: ✅#WearAMask ✅Observe,real,real,0.983,True
+The gallery like many arts institutions across the country has been hit hard by the COVID-19 pandemic and is reportedly considering lay-offs,real,real,0.772,True
+Eight weeks into #COVID19 #CoronaVirus outbreak and the virus is identified sequenced and we have PCR and serological assays are in use: unp,real,real,0.772,True
+South Dakota has yet to issue any directives to social distance or stay at home. To prevent hospital overload a Stay at Home order must be i,real,real,0.919,True
+Claim that Saint Corona has always been a patron saint against epidemics.,fake,fake,0.999,True
+We also have to report a bug in our rolling average lines in some previous charts. In some cases they were calculating over a longer time pe,real,real,0.954,True
+@sandylocks is a celebrated legal scholar. She’s been hosting Under the Blacklight at the @AAPolicyForum to look at “the intersectional vuln,real,fake,0.81,False
